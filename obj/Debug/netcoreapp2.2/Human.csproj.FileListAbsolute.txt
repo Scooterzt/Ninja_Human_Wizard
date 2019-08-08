@@ -1,0 +1,11 @@
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/bin/Debug/netcoreapp2.2/Human.deps.json
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/bin/Debug/netcoreapp2.2/Human.runtimeconfig.json
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/bin/Debug/netcoreapp2.2/Human.runtimeconfig.dev.json
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/bin/Debug/netcoreapp2.2/Human.dll
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/bin/Debug/netcoreapp2.2/Human.pdb
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/obj/Debug/netcoreapp2.2/Human.csprojAssemblyReference.cache
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/obj/Debug/netcoreapp2.2/Human.csproj.CoreCompileInputs.cache
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/obj/Debug/netcoreapp2.2/Human.AssemblyInfoInputs.cache
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/obj/Debug/netcoreapp2.2/Human.AssemblyInfo.cs
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/obj/Debug/netcoreapp2.2/Human.dll
+/Users/romanmac/Desktop/Coding_Dojo/c_sharp/Human/obj/Debug/netcoreapp2.2/Human.pdb
